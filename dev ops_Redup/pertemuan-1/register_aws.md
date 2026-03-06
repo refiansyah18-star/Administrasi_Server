@@ -7,7 +7,7 @@
 ![alt text](image-2.png)
 
 3. Isi email dan nama akun AWS
-![alt text](image3.png)
+![alt text](image-3.png)
 
 4. Verify Email Address yang dikirim ke alamat email daftar
 ![alt text](image-4.png)
@@ -29,5 +29,6 @@
 
 10. Tanda Berhasil https://ap-southeast-2.console.aws.amazon.com/console/home?region=ap-southeast-2
 ![alt text](image-10.png)
+
 
 
