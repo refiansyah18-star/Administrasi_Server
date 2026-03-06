@@ -22,9 +22,9 @@
 ![alt text](image-10.png)
 
 8. setting kebijakan keamanan(security group) 
--Allow ssh
--Allow https
--Allow http
+- Allow ssh
+- Allow https
+- Allow http
 ![alt text](image-11.png)
 
 9. setelah selesai set-up pili launch intance
@@ -32,3 +32,4 @@
 
 10. pastikan launch instance sukses
 ![alt text](image-13.png)
+
