@@ -22,7 +22,7 @@ sudo apt remove mariadb-server mariadb-client mariadb-common
     - npm run build
     - npm start
     - Pastikan web dapat diakses di http://localhost:3000 admin tanpa error
-![alt text](image-2.png`)
+![alt text](image-2.png)
 11. Buat file Dockerfile
 12. Buat file docker-compose.yml
 13. Buat Workflows File -> deploy-dinamis.yml di folder .github workflows/ dari Projek web-dinamis
