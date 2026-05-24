@@ -19,7 +19,7 @@ sudo apt remove mariadb-server mariadb-client mariadb-common
     - Install Dependencies: npm install
     - Create user di DBMS : sudo mysql -u root -p
         - CREATE USER GRANT ALL PRIVILEGES ON *.* TO `usercompro_2388010039`@`localhost` IDENTIFIED BY PASSWORD '*B947A8A47C0A5856FDF0F384CFDD8F3AB1625D85' WITH GRANT OPTION;
-        - 
+          
 ![alt text](image-1.png)
     - Edit File .env di folder web-dinamis
     - npm run build
@@ -41,6 +41,7 @@ sudo apt remove mariadb-server mariadb-client mariadb-common
     ![alt text](image-3.png)
     
     ![alt text](image-7.png)
+    
     - web_static
       
     ![alt text](image-4.png)
