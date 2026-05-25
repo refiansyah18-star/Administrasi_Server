@@ -40,13 +40,13 @@ sudo apt remove mariadb-server mariadb-client mariadb-common
 
     ![alt text](image-3.png)
     
-    ![alt text](image-7.png)
+    ![alt text](image-6.png)
     
     - web_static
       
     ![alt text](image-4.png)
 
-    ![alt text](image-6.png)
+    ![alt text](image-7.png)
     
 20. Cek di AWS, apakah container berjalan dengan baik
 
