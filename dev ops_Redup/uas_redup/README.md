@@ -5,8 +5,8 @@
 
 ## 🌐 Tautan Langsung ke AWS
 *(Ganti `<IP_AWS_KAMU>` dengan IP Publik dari instance EC2 kamu)*
-- **Web Statis (Port 80):** `http://<IP_AWS_KAMU>`
-- **Web Dinamis (Port 3000):** `http://<IP_AWS_KAMU>:3000`
+- **Web Statis (Port 80):** `http://54.255.162.1`
+- **Web Dinamis (Port 3000):** `http://54.255.162.1:3000`
 
 ---
 
@@ -60,11 +60,3 @@ Proyek ini menerapkan arsitektur **Cloud Native** dan menggunakan sistem Continu
 
 - **Proses Git Push & Github Actions Sukses:**
   ![Proses Git Push & Github Actions Sukses](image-10.png)
-- **Tampilan Web Sebelum Update:** *(Masukkan gambar web awal)*
-- **Tampilan Web Setelah Update:** *(Masukkan gambar web setelah kode dipush)*
-
----
-
-**Mata Kuliah:** Administrasi Server (Cloud Computing II)  
-**Dosen Pengampu:** Mohamad Firdaus, M.Kom.  
-**Metode:** Project-Based Learning (PBL) & Outcome-Based Education (OBE)
