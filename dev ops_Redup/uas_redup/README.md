@@ -1,7 +1,5 @@
 # WatchVault - Web Dinamis & Statis (UAS Administrasi Server)
 
-[![CI/CD Web Dinamis](https://github.com/redupthedestroyer/web-dinamis-uas/actions/workflows/deploy-web-dinamis.yml/badge.svg)](https://github.com/redupthedestroyer/web-dinamis-uas/actions/workflows/deploy-web-dinamis.yml)
-[![CI/CD Web Statis](https://github.com/redupthedestroyer/web-statis-uas/actions/workflows/deploy-web-statis.yml/badge.svg)](https://github.com/redupthedestroyer/web-statis-uas/actions/workflows/deploy-web-statis.yml)
 
 ## 🌐 Tautan Langsung ke AWS
 *(Ganti `<IP_AWS_KAMU>` dengan IP Publik dari instance EC2 kamu)*
