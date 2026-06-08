@@ -2,7 +2,7 @@
 
 
 ## 🌐 Tautan Langsung ke AWS
-*(Ganti `<IP_AWS_KAMU>` dengan IP Publik dari instance EC2 kamu)*
+*(IP Publik dari instance EC2)*
 - **Web Statis (Port 80):** `http://54.255.162.1`
 - **Web Dinamis (Port 3000):** `http://54.255.162.1:3000`
 
